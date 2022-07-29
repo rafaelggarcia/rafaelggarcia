@@ -1,6 +1,6 @@
-Hey! I'm Rafael Garcia, I'm 20 years old, I study systems analysis and development
+Hey! I'm Rafael Garcia. I'm 20 years old, i study systems analysis and development
 
-- 🔭 I'm currently working on System Monitoring (NOC) at Luizalabs.
-- 🌱 I'm currently learning Python and Django, focused on Python development.
+- 🔭 I'm software enginner at Luizalabs | Estante Virtual. 
+- 🌱 I'm currently learning Python and Ruby on Rails.
 - 📫 How to contact me: rafael_ggarcia@outlook.com
 - ⚡ Curiosity: I'm a father, married, jiu jitsu practitioner and amateur chess player.
